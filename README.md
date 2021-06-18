@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 😄 Pronouns: He/Him
 ### 🔭 I’m currently working on a bash script implemented with C
-### 💬 Ask me about anything related to Guitars🎸 or Sports 🏈 ⚽
+### 💬 Ask me about anything related to Guitars🎸 or Sports 🏈 ⚽ ⚾ 
 <!--
 **VyasKP7/VyasKP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
