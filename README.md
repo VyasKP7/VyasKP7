@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 😄 Pronouns: He/Him
 ### 🔭 I’m currently working on Adversarial Attacks on Deep CNNs implemented with TensorFlow and Python
-### 🔭 and I'm working on a GUI version of my GPA calculator
+### 🔭 I'm also working on a GUI version of my GPA calculator
 ### 💬 Ask me about anything related to Guitars🎸 or Sports 🏈 ⚽ ⚾ 
 <!--
 **VyasKP7/VyasKP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
