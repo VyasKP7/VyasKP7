@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 😄 Pronouns: He/Him
 ### 🔭 I’m currently working on Adversarial Attacks on Deep CNNs implemented with TensorFlow and Python
 ### 💬 Ask me about anything related to Guitars🎸 or Sports 🏈 ⚽ ⚾ 
 <!--
